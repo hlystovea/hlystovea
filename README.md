@@ -1,4 +1,4 @@
 - Hi, I’m Evgeniy Khlystov
-- I love python and snow 🏂
+- I love write code and ride snow 🏂
 
 ![gla.jpg](gla.jpg)
