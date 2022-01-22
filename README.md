@@ -1,4 +1,4 @@
 Hi, I’m Evgeniy Khlystov
-I love write code and snow 🏂
+I'm developer from Siberia ❄️
 
 ![gla.jpg](images/gla.jpg)
