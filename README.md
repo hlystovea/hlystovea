@@ -1,3 +1,3 @@
-Hi, I’m Evgeniy Khlystov. I'm developer from Siberia ❄️
+Hi, My name is Evgeniy. I'm developer from Siberia ❄️
 
 ![gla.jpg](images/gla.jpg)
